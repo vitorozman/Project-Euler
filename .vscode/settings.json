@@ -1,0 +1,8 @@
+{
+  // Disable GitHub Copilot
+  "github.copilot.enable": false,
+
+  // Disable inline suggestions (AI-style completions)
+  "editor.inlineSuggest.enabled": false,
+
+}
