@@ -11,7 +11,6 @@ def sum_of_diag(n=1001):
     for _ in range(loops):
         for s in range(1, 4+1):
             index = i + s*step
-            print(index)
             current_sum += num_list[index]
         i = index
         step += 2
